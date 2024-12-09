@@ -1,0 +1,33 @@
+[System]
+Name='pr3'
+Type='sugeno'
+Version=2.0
+NumInputs=1
+NumOutputs=1
+NumRules=3
+AndMethod='prod'
+OrMethod='probor'
+ImpMethod='prod'
+AggMethod='sum'
+DefuzzMethod='wtaver'
+
+[Input1]
+Name='input1'
+Range=[0 6]
+NumMFs=3
+MF1='in1mf1':'gaussmf',[1.32623925726282 0.0385209286117418]
+MF2='in1mf2':'gaussmf',[1.28320426143444 3.04506686978316]
+MF3='in1mf3':'gaussmf',[1.22626637079545 6.03713348424188]
+
+[Output1]
+Name='output'
+Range=[-0.989992496600445 1]
+NumMFs=3
+MF1='out1mf1':'constant',[1.18968005785212]
+MF2='out1mf2':'constant',[-1.24441997331003]
+MF3='out1mf3':'constant',[1.04486998385499]
+
+[Rules]
+1, 1 (1) : 1
+2, 2 (1) : 1
+3, 3 (1) : 1
