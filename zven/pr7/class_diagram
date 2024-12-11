@@ -1,0 +1,40 @@
+digraph "Class Diagram" {
+	graph [nodesep=0.8 ranksep=1.0 splines=ortho]
+	dpi=300
+	rankdir=TB
+	node [fontname=Arial fontsize=14 shape=record style=rounded]
+	edge [fontname=Arial fontsize=12]
+	size="8,8"
+	Customer [label="{ Customer |
++ name: string\l
++ contact_info: string\l
++ company_type: string\l|
++ placeOrder()\l
++ editDetails()\l}"]
+	AdCampaign [label="{ AdCampaign |
++ name: string\l
++ budget: float\l
++ goal: string\l
++ period: string\l|
++ launchCampaign()\l
++ analyzeResults()\l}"]
+	Employee [label="{ Employee |
++ name: string\l
++ position: string\l
++ salary: float\l|
++ assignTask()\l
++ editTask()\l}"]
+	Report [label="{ Report |
++ name: string\l
++ creation_date: date\l
++ results: string\l|
++ createReport()\l
++ viewReport()\l}"]
+	Manager [label="{ Manager |
+|
+(Inherits from Employee)\l}"]
+	Customer -> AdCampaign [label=places]
+	AdCampaign -> Employee [label=manages]
+	AdCampaign -> Report [label=has]
+	Manager -> Employee [label=inherits arrowhead=onormal]
+}

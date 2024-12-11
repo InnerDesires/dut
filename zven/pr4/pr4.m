@@ -8,7 +8,7 @@ function plotchar(data)
     end
 
     % Перетворення вектора на 5x7 матрицю (з транспонуванням для правильної орієнтації)
-    charMatrix = reshape(data, [5, 7])';
+    charMatrix = reshape(data, [5, 7]);
 
     % Візуалізація матриці як зображення
     imagesc(charMatrix); % Відображення матриці
