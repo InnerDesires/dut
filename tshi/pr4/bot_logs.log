@@ -1,0 +1,110 @@
+2024-12-19 18:55:01,115 - __main__ - INFO - Бот запускається...
+2024-12-19 18:55:01,115 - aiogram.dispatcher - INFO - Start polling
+2024-12-19 18:55:01,264 - aiogram.dispatcher - INFO - Run polling for bot @test_78888_bot id=7878252231 - 'pr1'
+2024-12-19 18:55:07,149 - __main__ - ERROR - Неочікувана помилка в handle_text: handle_text() got an unexpected keyword argument 'dispatcher'
+2024-12-19 18:55:07,149 - aiogram.event - INFO - Update id=972951892 is handled. Duration 0 ms by bot id=7878252231
+2024-12-19 18:55:09,976 - __main__ - ERROR - Неочікувана помилка в handle_text: handle_text() got an unexpected keyword argument 'dispatcher'
+2024-12-19 18:55:09,976 - aiogram.event - INFO - Update id=972951893 is handled. Duration 0 ms by bot id=7878252231
+2024-12-19 18:55:12,265 - __main__ - ERROR - Неочікувана помилка в cmd_start: cmd_start() got an unexpected keyword argument 'dispatcher'
+2024-12-19 18:55:12,266 - aiogram.event - INFO - Update id=972951894 is handled. Duration 1 ms by bot id=7878252231
+2024-12-19 18:56:30,133 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-12-19 18:56:30,142 - aiogram.dispatcher - INFO - Polling stopped for bot @test_78888_bot id=7878252231 - 'pr1'
+2024-12-19 18:56:30,144 - aiogram.dispatcher - INFO - Polling stopped
+2024-12-19 18:56:30,397 - __main__ - INFO - Бот зупинено
+2024-12-19 18:57:15,444 - __main__ - INFO - Бот запускається...
+2024-12-19 18:57:15,444 - aiogram.dispatcher - INFO - Start polling
+2024-12-19 18:57:15,613 - aiogram.dispatcher - INFO - Run polling for bot @test_78888_bot id=7878252231 - 'pr1'
+2024-12-19 18:57:20,969 - __main__ - ERROR - Неочікувана помилка в handle_text: handle_text() got an unexpected keyword argument 'dispatcher'
+2024-12-19 18:57:20,969 - aiogram.event - INFO - Update id=972951895 is handled. Duration 0 ms by bot id=7878252231
+2024-12-19 18:57:24,297 - __main__ - ERROR - Неочікувана помилка в cmd_start: cmd_start() got an unexpected keyword argument 'dispatcher'
+2024-12-19 18:57:24,297 - aiogram.event - INFO - Update id=972951896 is handled. Duration 1 ms by bot id=7878252231
+2024-12-19 18:57:29,685 - __main__ - ERROR - Неочікувана помилка в cmd_start: cmd_start() got an unexpected keyword argument 'dispatcher'
+2024-12-19 18:57:29,686 - aiogram.event - INFO - Update id=972951897 is handled. Duration 0 ms by bot id=7878252231
+2024-12-19 18:57:47,213 - __main__ - ERROR - Неочікувана помилка в cmd_start: cmd_start() got an unexpected keyword argument 'dispatcher'
+2024-12-19 18:57:47,223 - aiogram.event - INFO - Update id=972951898 is handled. Duration 9 ms by bot id=7878252231
+2024-12-19 18:57:52,833 - __main__ - ERROR - Неочікувана помилка в handle_text: handle_text() got an unexpected keyword argument 'dispatcher'
+2024-12-19 18:57:52,834 - aiogram.event - INFO - Update id=972951899 is handled. Duration 0 ms by bot id=7878252231
+2024-12-19 18:57:54,389 - __main__ - ERROR - Неочікувана помилка в handle_text: handle_text() got an unexpected keyword argument 'dispatcher'
+2024-12-19 18:57:54,390 - aiogram.event - INFO - Update id=972951900 is handled. Duration 0 ms by bot id=7878252231
+2024-12-19 18:57:55,172 - __main__ - ERROR - Неочікувана помилка в handle_text: handle_text() got an unexpected keyword argument 'dispatcher'
+2024-12-19 18:57:55,172 - aiogram.event - INFO - Update id=972951901 is handled. Duration 0 ms by bot id=7878252231
+2024-12-19 18:58:01,914 - __main__ - ERROR - Неочікувана помилка в cmd_start: cmd_start() got an unexpected keyword argument 'dispatcher'
+2024-12-19 18:58:01,914 - aiogram.event - INFO - Update id=972951902 is handled. Duration 0 ms by bot id=7878252231
+2024-12-19 18:58:06,418 - __main__ - ERROR - Неочікувана помилка в cmd_start: cmd_start() got an unexpected keyword argument 'dispatcher'
+2024-12-19 18:58:06,419 - aiogram.event - INFO - Update id=972951903 is handled. Duration 1 ms by bot id=7878252231
+2024-12-19 18:59:52,393 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-12-19 18:59:52,409 - aiogram.dispatcher - INFO - Polling stopped for bot @test_78888_bot id=7878252231 - 'pr1'
+2024-12-19 18:59:52,409 - aiogram.dispatcher - INFO - Polling stopped
+2024-12-19 18:59:52,661 - __main__ - INFO - Бот зупинено
+2024-12-19 18:59:54,579 - __main__ - INFO - Бот запускається...
+2024-12-19 18:59:54,580 - aiogram.dispatcher - INFO - Start polling
+2024-12-19 18:59:54,733 - aiogram.dispatcher - INFO - Run polling for bot @test_78888_bot id=7878252231 - 'pr1'
+2024-12-19 18:59:59,445 - __main__ - ERROR - Неочікувана помилка в cmd_start: cmd_start() got an unexpected keyword argument 'dispatcher'
+2024-12-19 18:59:59,445 - aiogram.event - INFO - Update id=972951904 is handled. Duration 0 ms by bot id=7878252231
+2024-12-19 19:01:36,295 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-12-19 19:01:36,302 - aiogram.dispatcher - INFO - Polling stopped for bot @test_78888_bot id=7878252231 - 'pr1'
+2024-12-19 19:01:36,303 - aiogram.dispatcher - INFO - Polling stopped
+2024-12-19 19:01:36,554 - __main__ - INFO - Бот зупинено
+2024-12-19 19:01:38,655 - __main__ - INFO - Бот запускається...
+2024-12-19 19:01:38,656 - aiogram.dispatcher - INFO - Start polling
+2024-12-19 19:01:38,816 - aiogram.dispatcher - INFO - Run polling for bot @test_78888_bot id=7878252231 - 'pr1'
+2024-12-19 19:01:48,236 - __main__ - ERROR - Неочікувана помилка в cmd_start: cmd_start() got an unexpected keyword argument 'dispatcher'
+2024-12-19 19:01:48,236 - aiogram.event - INFO - Update id=972951905 is handled. Duration 0 ms by bot id=7878252231
+2024-12-20 01:21:20,872 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-20 01:21:20,875 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7878252231)
+2024-12-20 03:46:48,503 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-20 03:46:48,506 - aiogram.dispatcher - WARNING - Sleep for 1.161582 seconds and try again... (tryings = 1, bot id = 7878252231)
+2024-12-20 06:41:27,720 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-20 06:41:27,722 - aiogram.dispatcher - WARNING - Sleep for 1.519723 seconds and try again... (tryings = 2, bot id = 7878252231)
+2024-12-20 07:48:44,505 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-20 07:48:44,510 - aiogram.dispatcher - WARNING - Sleep for 2.038291 seconds and try again... (tryings = 3, bot id = 7878252231)
+2024-12-20 08:26:41,195 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-20 08:26:41,216 - aiogram.dispatcher - WARNING - Sleep for 2.824241 seconds and try again... (tryings = 4, bot id = 7878252231)
+2024-12-20 09:50:54,699 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-20 09:50:54,704 - aiogram.dispatcher - WARNING - Sleep for 3.598040 seconds and try again... (tryings = 5, bot id = 7878252231)
+2024-12-20 09:51:08,499 - aiogram.dispatcher - INFO - Connection established (tryings = 6, bot id = 7878252231)
+2024-12-20 11:53:00,574 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-20 11:53:00,576 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7878252231)
+2024-12-20 11:53:11,770 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7878252231)
+2024-12-20 13:49:11,093 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-20 13:49:11,097 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7878252231)
+2024-12-20 13:49:22,258 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7878252231)
+2024-12-20 14:59:59,357 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-20 14:59:59,359 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7878252231)
+2024-12-20 15:00:10,633 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7878252231)
+2024-12-20 15:35:16,391 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-20 15:35:16,406 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7878252231)
+2024-12-20 15:35:27,898 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7878252231)
+2024-12-20 16:51:52,048 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-20 16:51:52,049 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7878252231)
+2024-12-20 16:52:03,219 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7878252231)
+2024-12-20 17:42:55,758 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-20 17:42:55,758 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7878252231)
+2024-12-20 17:43:07,217 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7878252231)
+2024-12-20 19:27:03,943 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-20 19:27:03,956 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7878252231)
+2024-12-20 20:54:59,252 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-20 20:54:59,254 - aiogram.dispatcher - WARNING - Sleep for 1.281061 seconds and try again... (tryings = 1, bot id = 7878252231)
+2024-12-20 20:55:10,749 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 7878252231)
+2024-12-20 21:59:20,828 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-20 21:59:20,830 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7878252231)
+2024-12-20 22:07:54,035 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-20 22:07:54,038 - aiogram.dispatcher - WARNING - Sleep for 1.303109 seconds and try again... (tryings = 1, bot id = 7878252231)
+2024-12-20 22:08:05,520 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 7878252231)
+2024-12-20 23:11:02,313 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-20 23:11:02,324 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7878252231)
+2024-12-21 01:12:59,723 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-21 01:12:59,723 - aiogram.dispatcher - WARNING - Sleep for 1.340929 seconds and try again... (tryings = 1, bot id = 7878252231)
+2024-12-21 05:38:52,026 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-21 05:38:52,039 - aiogram.dispatcher - WARNING - Sleep for 1.784627 seconds and try again... (tryings = 2, bot id = 7878252231)
+2024-12-21 05:39:03,970 - aiogram.dispatcher - INFO - Connection established (tryings = 3, bot id = 7878252231)
+2024-12-21 09:38:14,750 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-21 09:38:14,751 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7878252231)
+2024-12-21 09:38:25,918 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7878252231)
+2024-12-21 10:18:42,896 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2024-12-21 10:18:42,898 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7878252231)
+2024-12-21 10:18:54,225 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7878252231)
+2024-12-21 10:48:01,728 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2024-12-21 10:48:01,743 - aiogram.dispatcher - INFO - Polling stopped for bot @test_78888_bot id=7878252231 - 'pr1'
+2024-12-21 10:48:01,744 - aiogram.dispatcher - INFO - Polling stopped
+2024-12-21 10:48:02,001 - __main__ - INFO - Бот зупинено
